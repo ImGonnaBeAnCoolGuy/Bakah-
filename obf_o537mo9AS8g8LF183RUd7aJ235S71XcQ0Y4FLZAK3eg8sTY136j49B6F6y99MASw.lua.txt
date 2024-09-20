@@ -1,5 +1,5 @@
 local Sound = Instance.new("Sound",game:GetService("SoundService"))
-Sound.SoundId = "rbxassetid://216917652"
+Sound.SoundId = "rbxassetid://18861270540"
 Sound:Play()
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = ("xChrizz Camlock");
